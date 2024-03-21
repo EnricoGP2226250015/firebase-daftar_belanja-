@@ -1,0 +1,9 @@
+1. create firbase project
+2. go to realtime database, flutter, get started on firebase web
+3. install firebase_core via npm (android)
+4. open cmd go to the directory of the flutter/firebase file, do firebase login, yes, login
+// to see the project do firebase projects:list
+5. do dart pub global activate flutterfire_cli
+6. do flutterfire configure
+7. in environment variables go to the user, path, edit and add C:\Users\u-mdp\AppData\Local\Pub\Cache\bin
+8. flutter pub add firebase_database, flutter pub add firebase_core

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCYfDC5DUjgbeRF2BZ2nW6gEfB5v2GbT2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217497928723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaseDaftarBelanja.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>first-app-ff7b2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>first-app-ff7b2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217497928723:ios:3a5901b36b287cd3912be6</string>
+	<key>DATABASE_URL</key>
+	<string>https://first-app-ff7b2-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
