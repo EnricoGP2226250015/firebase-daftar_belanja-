@@ -8,11 +8,11 @@ class ShoppingService {
     return _database.onValue.map((event) {
       final Map<String, String> items = {};
       DataSnapshot snapshot = event.snapshot;
-      print('Snapshot data');
+      // print('Snapshot data');
       if (snapshot.value != null) {
         Map<dynamic, dynamic> values = snapshot.value as Map<dynamic, dynamic>;
         values.forEach((key, value) {
-          items[key] = values as String;
+          items[key] = value['name'] as String;
         });
       }
       return items;
