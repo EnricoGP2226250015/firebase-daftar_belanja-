@@ -19,7 +19,7 @@ class ShoppingService {
     });
   }
 
-  void addShoppingList(String itemName) {
+  void addShoppingItem(String itemName) {
     _database.push().set({'name': itemName});
   }
 
